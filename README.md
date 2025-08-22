@@ -1,6 +1,6 @@
 # React + TypeScript + Vite
 
-### Deploy do projeto: https://ignite-timer-phi-plum.vercel.app/
+### Deploy do projeto: https://timer-everton.vercel.app/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
